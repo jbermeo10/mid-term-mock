@@ -1,0 +1,5 @@
+# excluding temp folder
+temp
+
+# excluding .dll files
+*.dll
